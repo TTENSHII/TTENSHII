@@ -1,4 +1,4 @@
-<h1 align="center">◦•● 𝘏𝘦𝘭𝘭𝘰 𝘞𝘰𝘳𝘭𝘥 ●•◦</h1>
+<h1 align="center">◦•● Hey there 👋 ●•◦</h1>
 
 <h2>𝐴𝑏𝑜𝑢𝑡 𝑀𝑒</h2>
 
