@@ -2,7 +2,7 @@
 
 <h2>𝐴𝑏𝑜𝑢𝑡 𝑀𝑒</h2>
 
-<img src="https://github.com/TTENSHII/TTENSHII/blob/main/6.gif" align="right" height="220">
+<img src="https://github.com/TTENSHII/TTENSHII/blob/main/2.gif" align="right" height="220">
 
 <ul>
   <li>🎏 France | 18 yo</li>
