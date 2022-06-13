@@ -6,7 +6,7 @@
 
 <ul>
   <li>🎏 France | 18 yo</li>
-  <li>🐉 Epitech first year</li>
+  <li>🐉 Epitech second year</li>
   <li>🐠 Discord: 天使 | Tenshi#9999</li>
   <li>🍁 Learning <b>Javascript, C, C# and NodeJS</b></li>
   <li>🐍 Experience with <b>Photoshop, Premiere and After Effect</b></li>
