@@ -15,6 +15,5 @@
 
 <h2>𝑆𝑡𝑎𝑡𝑠</h2>
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=ttenshii&theme=onedark&show_icons=true&count_private=true">
-</div>
+<img src="https://github-readme-stats.vercel.app/api?username=ttenshii&theme=onedark&show_icons=true&count_private=true" align="left">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ttenshii&layout=compact&theme=onedark">
