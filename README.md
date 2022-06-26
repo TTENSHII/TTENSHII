@@ -16,6 +16,3 @@
 <h2>𝑆𝑡𝑎𝑡𝑠</h2>
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=TTENSHII&theme=onedark&show_icons=true&count_private=true)
-<!--START_SECTION:activity-->
-
-<!--END_SECTION:activity-->
