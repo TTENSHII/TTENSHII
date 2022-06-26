@@ -16,7 +16,5 @@
 <h2>𝑆𝑡𝑎𝑡𝑠</h2>
 
 <!--START_SECTION:activity-->
-
-<img src="https://github-readme-stats.vercel.app/api?username=ttenshii&theme=onedark&show_icons=true&count_private=true" align="left">
-
+![Stats](https://github-readme-stats.vercel.app/api?username=TTENSHII&theme=onedark&show_icons=true&count_private=true)
 <!--END_SECTION:activity-->
