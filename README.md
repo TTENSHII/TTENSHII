@@ -43,9 +43,9 @@ Typescript  : #························ 0%
 ```text
 👥 - Followers: 8
 👤 - Following: 10
-📂 - Public repositories: 7
-🔒 - Private repositories: 12
-⭐ - Repositories starred: 10
+📂 - Public repositories: 8
+🔒 - Private repositories: 11
+⭐ - Repositories starred: 12
 🔃 - Pull requests: 58
 🐲 - Repos contributed to: 62
 🍃 - Commits made: 1291
