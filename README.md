@@ -33,11 +33,11 @@ Sunday     : ####····················· 16%
 ```
 📊 - Top languages
 ```text
-C           : #####···················· 18%
 C++         : ###############·········· 60%
+C           : #####···················· 18%
+Javascript  : #························ 5%
 Haskell     : ###······················ 13%
 Assembly    : #························ 5%
-Javascript  : #························ 5%
 ```
 🎏 - Quick overview of my profile
 ```text
@@ -49,6 +49,6 @@ Javascript  : #························ 5%
 🔃 - Pull requests: 267
 🏮 - Issues: 4
 🐲 - Repos contributed to: 64
-🍃 - Commits made: 1010
+🍃 - Commits made: 1011
 ```
 <!--END_SECTION:GITHUB_STATS-->
