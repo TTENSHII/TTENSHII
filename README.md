@@ -16,8 +16,8 @@
 <!--START_SECTION:GITHUB_STATS-->
 🌉 - Working hours stats
 ```text
-Morning    : ###······················ 10%
-Afternoon  : ########················· 33%
+Morning    : ###······················ 11%
+Afternoon  : #########················ 34%
 Evening    : #########················ 34%
 Night      : ######··················· 22%
 ```
@@ -45,8 +45,8 @@ Cmake       : #························ 2%
 📂 - Public repositories: 9
 🔒 - Private repositories: 24
 ⭐ - Repositories starred: 28
-🔃 - Pull requests: 285
-🏮 - Issues: 8
+🔃 - Pull requests: 284
+🏮 - Issues: 9
 🐲 - Repos contributed to: 27
 🍃 - Commits made: 1069
 ```
