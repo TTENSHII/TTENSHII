@@ -28,7 +28,7 @@ Tuesday    : #####···················· 19%
 Wednesday  : #####···················· 18%
 Thursday   : ###······················ 12%
 Friday     : ###······················ 12%
-Saturday   : ###······················ 10%
+Saturday   : ##······················· 9%
 Sunday     : ####····················· 15%
 ```
 📊 - Top languages
@@ -41,12 +41,12 @@ Shaderlab   : #························ 2%
 🎏 - Quick overview of my profile
 ```text
 👥 - Followers: 12
-👤 - Following: 17
+👤 - Following: 15
 📂 - Public repositories: 10
 🔒 - Private repositories: 26
 ⭐ - Repositories starred: 29
 🔃 - Pull requests: 290
-🏮 - Issues: 20
+🏮 - Issues: 24
 🐲 - Repos contributed to: 16
 🍃 - Commits made: 1139
 ```
