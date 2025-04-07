@@ -16,10 +16,10 @@
 <!--START_SECTION:GITHUB_STATS-->
 🌉 - Working hours stats
 ```text
-Morning    : #########················ 37%
+Morning    : ##########··············· 38%
 Afternoon  : ########················· 33%
 Evening    : ##······················· 8%
-Night      : ######··················· 22%
+Night      : #####···················· 21%
 ```
 📅 - Working days stats
 ```text
