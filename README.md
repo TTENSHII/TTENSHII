@@ -40,7 +40,7 @@ Typescript  : ####################····· 78%
 ```
 🎏 - Quick overview of my profile
 ```text
-👥 - Followers: 12
+👥 - Followers: 13
 👤 - Following: 15
 📂 - Public repositories: 10
 🔒 - Private repositories: 28
