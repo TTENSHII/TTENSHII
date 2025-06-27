@@ -46,7 +46,7 @@ Typescript  : ####################····· 78%
 🔒 - Private repositories: 28
 ⭐ - Repositories starred: 24
 🔃 - Pull requests: 269
-🏮 - Issues: 21
+🏮 - Issues: 22
 🐲 - Repos contributed to: 13
 🍃 - Commits made: 1062
 ```
