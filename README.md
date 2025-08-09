@@ -4,7 +4,7 @@
 · HI DEVS, WELCOME ON MY PROFILE ·
 </h2>
 
-- 🧠 4rd year student at Epitech
+- 🧠 5th year student at Epitech
 - 🌐 Learning C C++ JS C# Shell Scripting and more
 - 🐲 Passionate about playing and making video games
 - 🎏 Unreal Engine and C++ enthusiast
