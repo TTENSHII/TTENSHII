@@ -52,3 +52,55 @@ C++         : ####····················· 17%
 🍃 - Commits made: 1063
 ```
 <!--END_SECTION:GITHUB_STATS-->
+
+<!-- STATS-SECTION:START -->
+🎏 - Quick overview of my profile
+```text
+👥 - Followers: 14
+👤 - Following: 15
+📂 - Public repositories: 15
+🔒 - Private repositories: 6
+⭐ - Total stars: 26
+🔃 - Pull requests: 387
+🏮 - Issues: 31
+🐲 - Repositories contributed to: 21
+🍃 - Commits made: 1396
+📝 - Gists: 2
+```
+
+🎉 - Fun Facts:
+```text
+🏆 - Longest commit streak: 12 days
+💖 - Most liked repo: XashInjector with 8 stars
+📅 - Days on GitHub: 1581 days (4 years)
+🌴 - Weekend commits ratio: 30%
+🌪️ - Commit storm day: 5/30/2023 with 38 commits
+📊 - Average commits per repo: 66
+```
+
+📊 - Top languages
+```text
+C         : #######.................. 27%
+C++       : #########................ 38%
+Haskell   : ###...................... 12%
+Python    : #........................ 6%
+TypeScript: ####..................... 18%
+```
+🌉 - Working hours stats
+```text
+Morning   : #####.................... 20%
+Afternoon : ########................. 33%
+Evening   : #######.................. 29%
+Night     : #####.................... 18%
+```
+📅 - Working days stats
+```text
+Sunday    : #####.................... 18%
+Monday    : ###...................... 13%
+Tuesday   : ####..................... 18%
+Wednesday : ####..................... 15%
+Thursday  : ###...................... 12%
+Friday    : ###...................... 12%
+Saturday  : ###...................... 12%
+```
+<!-- STATS-SECTION:END -->
