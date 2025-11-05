@@ -13,7 +13,7 @@
 </h3>
 
 <!-- STATS-SECTION:START -->
-🎏 - Quick overview of my profile
+🎏 Quick overview of my profile
 ```text
 👥 - Followers: 14
 👤 - Following: 15
@@ -23,11 +23,11 @@
 🔃 - Pull requests: 387
 🏮 - Issues: 31
 🐲 - Repositories contributed to: 21
-🍃 - Commits made: 1284
+🍃 - Commits made: 1287
 📝 - Gists: 2
 ```
 
-🎉 - Fun Facts:
+🎉 Fun Facts:
 ```text
 🏆 - Longest commit streak: 8 days
 💖 - Most liked repo: XashInjector with 8 stars
@@ -37,7 +37,7 @@
 📊 - Average commits per repo: 61
 ```
 
-📊 - Top languages
+📊 Top languages
 ```text
 C         : #######.................. 27%
 C++       : #########................ 38%
@@ -45,14 +45,14 @@ Haskell   : ###...................... 12%
 Python    : #........................ 6%
 TypeScript: ####..................... 18%
 ```
-🌉 - Working hours stats
+🌉 Working hours stats
 ```text
 Morning   : #####.................... 21%
-Afternoon : ########................. 33%
+Afternoon : ########................. 32%
 Evening   : #######.................. 27%
 Night     : #####.................... 19%
 ```
-📅 - Working days stats
+📅 Working days stats
 ```text
 Sunday    : #####.................... 18%
 Monday    : ###...................... 13%
