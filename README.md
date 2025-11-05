@@ -5,9 +5,8 @@
 </h2>
 
 - 🧠 5th year student at Epitech
-- 🌐 Learning C C++ JS C# Shell Scripting and more
-- 🐲 Passionate about playing and making video games
 - 🎏 Unreal Engine and C++ enthusiast
+- 🐲 Passionate about playing and making video games
 
 <h3 align="center">
 · GITHUB STATS OVERVIEW ·
