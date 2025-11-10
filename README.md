@@ -16,7 +16,7 @@
 🎏 Quick overview of my profile
 ```text
 👥 - Followers: 14
-👤 - Following: 15
+👤 - Following: 12
 📂 - Public repositories: 15
 🔒 - Private repositories: 6
 ⭐ - Total stars: 26
@@ -31,7 +31,7 @@
 ```text
 🏆 - Longest commit streak: 8 days
 💖 - Most liked repo: XashInjector with 8 stars
-📅 - Days on GitHub: 1584 days (4 years)
+📅 - Days on GitHub: 1585 days (4 years)
 🌴 - Weekend commits ratio: 30%
 🌪️ - Commit storm day: 5/30/2023 with 35 commits
 📊 - Average commits per repo: 61
