@@ -23,7 +23,7 @@
 🔃 - Pull requests: 387
 🏮 - Issues: 32
 🐲 - Repositories contributed to: 22
-🍃 - Commits made: 1327
+🍃 - Commits made: 1342
 📝 - Gists: 2
 ```
 
@@ -31,10 +31,10 @@
 ```text
 🏆 - Longest commit streak: 8 days
 💖 - Most liked repo: XashInjector with 8 stars
-📅 - Days on GitHub: 1589 days (4 years)
-🌴 - Weekend commits ratio: 29%
+📅 - 4 years and 4 months
+🌴 - Weekend commits ratio: 28%
 🌪️ - Commit storm day: 5/30/2023 with 35 commits
-📊 - Average commits per repo: 60
+📊 - Average commits per repo: 61
 ```
 
 📊 Top languages
@@ -48,18 +48,18 @@ TypeScript: ######................... 22%
 🌉 Working hours stats
 ```text
 Morning   : #####.................... 20%
-Afternoon : ########................. 33%
-Evening   : #######.................. 28%
+Afternoon : ########................. 34%
+Evening   : #######.................. 27%
 Night     : #####.................... 19%
 ```
 📅 Working days stats
 ```text
 Sunday    : ####..................... 18%
-Monday    : ###...................... 13%
+Monday    : ###...................... 12%
 Tuesday   : ####..................... 18%
 Wednesday : ####..................... 16%
-Thursday  : ###...................... 13%
-Friday    : ###...................... 12%
+Thursday  : ###...................... 12%
+Friday    : ###...................... 13%
 Saturday  : ###...................... 11%
 ```
 <!-- STATS-SECTION:END -->
